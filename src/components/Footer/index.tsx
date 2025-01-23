@@ -30,9 +30,9 @@ const Footer = () => {
               rounded={"full"}
               mr={1}
             >
-              Stargate
+              Claritas AI
             </Text>{" "}
-            The only AI tool you will ever need
+            The only partner you will ever need
           </Text>
         </Flex>
         <Heading
@@ -50,7 +50,7 @@ const Footer = () => {
             WebkitBackgroundClip: "text",
           }}
         >
-          Fork me on GitHub
+          Let's make life easier for you
         </Heading>
 
         <Button
